@@ -11,7 +11,7 @@ Commands:
   
 •  Permission: enchlimit.admin
   
-
+-------------------------------
 
 Permissions:
 

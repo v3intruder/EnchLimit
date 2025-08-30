@@ -7,7 +7,7 @@ Commands:
   
 •  /enchlimit <enchantment> <level>
 
-  •  Sets the maximum level for a specific enchantment.
+   •  Sets the maximum level for a specific enchantment.
   
   •  Permission: enchlimit.admin
   

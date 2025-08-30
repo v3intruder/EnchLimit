@@ -1,8 +1,0 @@
-# Enchlimit Plugin Configuration
-
-# The following is a list of enchantment limits.
-# You can add or modify these with the /enchlimit command.
-# Format: <enchantment_name>: <level>
-enchantment-limits:
-  protection: 2
-  fire_aspect: 0

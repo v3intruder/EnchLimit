@@ -1,0 +1,11 @@
+main: org.spigotmc.enchLimit.EnchLimit
+name: Enchlimit
+version: 1.0
+api-version: 1.21
+author: YourName
+commands:
+  enchlimit:
+    description: Sets a limit for an enchantment.
+    usage: /<command> <enchantment> <level>
+    permission: enchlimit.admin
+    permission-message: You do not have permission to use this command.
